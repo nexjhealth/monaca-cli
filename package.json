@@ -6,7 +6,6 @@
     "monaca": "bin/monaca"
   },
   "scripts": {
-    "preinstall": "node bin/preinstall",
     "test": "npx jest"
   },
   "repository": {
